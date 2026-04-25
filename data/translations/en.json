@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Home",
+    "ourTrips": "Our Trips",
+    "vipTrips": "VIP Trips",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "Discover the Magic of Egypt",
+    "subtitle": "Unforgettable travel experiences in Hurghada and beyond. Luxury yachts, desert safaris, and ancient wonders.",
+    "cta": "Explore Trips"
+  },
+  "home": {
+    "featured": "Featured Trips",
+    "viewAll": "View All Trips"
+  },
+  "trips": {
+    "title": "All Trips",
+    "vipTitle": "VIP Experience",
+    "searchPlaceholder": "Search for your next adventure...",
+    "categories": {
+      "all": "All",
+      "sea": "Sea",
+      "safari": "Safari",
+      "pyramids": "Pyramids",
+      "history": "History",
+      "nile": "Nile"
+    },
+    "noResults": "No trips found matching your search.",
+    "vipBadge": "VIP",
+    "priceFrom": "From",
+    "duration": "Duration",
+    "bookNow": "Book Now"
+  },
+  "tripDetails": {
+    "gallery": "Gallery",
+    "description": "Description",
+    "bookingForm": {
+      "title": "Book This Trip",
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "people": "Number of People",
+      "date": "Preferred Date",
+      "submit": "Book via WhatsApp",
+      "cancel": "Cancel"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have questions? We are here to help you plan your perfect trip.",
+    "info": {
+      "name": "Name",
+      "phone": "Phone",
+      "address": "Address",
+      "email": "Email"
+    },
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Message",
+      "send": "Send Message"
+    }
+  },
+  "footer": {
+    "about": "Hurghada Travel Agency",
+    "aboutText": "We provide premium travel experiences in Hurghada, Luxor, and Cairo. Your satisfaction is our priority.",
+    "links": "Quick Links",
+    "contactInfo": "Contact Info",
+    "rights": "All rights reserved."
+  }
+}
