@@ -20,7 +20,7 @@ export default function Home() {
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           <Image
-            src="/images/seatravel/wooden-handmade-boat-sea-sunlight-cloudy-sky.jpg"
+            src="/images/seatravel/wooden-handmade-boat-sea-sunlight-cloudy-sky.webp"
             alt="Hero Background"
             fill
             className="object-cover scale-105"
@@ -127,7 +127,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="relative rounded-[3rem] overflow-hidden p-12 md:p-24 text-center">
             <Image
-              src="/images/sfarytravel/sunset-adventure.jpg"
+              src="/images/sfarytravel/sunset-adventure.webp"
               alt="CTA Background"
               fill
               className="object-cover"

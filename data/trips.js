@@ -14,9 +14,9 @@ const trips = [
     price: 80,
     duration: "8 Hours",
     images: [
-      "/images/seatravel/young-woman-walking-white-yacht.jpg",
-      "/images/seatravel/boat-floating-water-cliff.jpg",
-      "/images/seatravel/sail-boats-sea-shore-lifesaver-flotation-life-buoy-rock-formation-concept.jpg"
+      "/images/seatravel/young-woman-walking-white-yacht.webp",
+      "/images/seatravel/boat-floating-water-cliff.webp",
+      "/images/seatravel/sail-boats-sea-shore-lifesaver-flotation-life-buoy-rock-formation-concept.webp"
     ]
   },
   {
@@ -34,9 +34,9 @@ const trips = [
     price: 45,
     duration: "6 Hours",
     images: [
-      "/images/sfarytravel/sunset-adventure.jpg",
-      "/images/sfarytravel/traveling-with-off-road-car.jpg",
-      "/images/sfarytravel/indian-men-resting-by-bonfire-with-their-camel.jpg"
+      "/images/sfarytravel/sunset-adventure.webp",
+      "/images/sfarytravel/traveling-with-off-road-car.webp",
+      "/images/sfarytravel/indian-men-resting-by-bonfire-with-their-camel.webp"
     ]
   },
   {
@@ -54,9 +54,9 @@ const trips = [
     price: 120,
     duration: "10 Hours",
     images: [
-      "/images/primadstravel/pyramid-giza.jpg",
-      "/images/primadstravel/shot-historic-sphinx-middle-typical-egyptian-scenery-clear-sky.jpg",
-      "/images/primadstravel/young-man-walking-towards-great-sphinx-giza.jpg"
+      "/images/primadstravel/pyramid-giza.webp",
+      "/images/primadstravel/shot-historic-sphinx-middle-typical-egyptian-scenery-clear-sky.webp",
+      "/images/primadstravel/young-man-walking-towards-great-sphinx-giza.webp"
     ]
   },
   {
@@ -74,9 +74,9 @@ const trips = [
     price: 95,
     duration: "12 Hours",
     images: [
-      "/images/aswantravel/statues-karnak-temple.jpg",
-      "/images/aswantravel/egyptian-hieroglyphs-wall.jpg",
-      "/images/aswantravel/view-ancient-temple-tomb-from-ancient-egyptian-times.jpg"
+      "/images/aswantravel/statues-karnak-temple.webp",
+      "/images/aswantravel/egyptian-hieroglyphs-wall.webp",
+      "/images/aswantravel/view-ancient-temple-tomb-from-ancient-egyptian-times.webp"
     ]
   },
   {
@@ -94,8 +94,8 @@ const trips = [
     price: 60,
     duration: "5 Hours",
     images: [
-      "/images/seatravel/boat-floating-water-cliff (1).jpg",
-      "/images/seatravel/wooden-handmade-boat-sea-sunlight-cloudy-sky.jpg"
+      "/images/seatravel/boat-floating-water-cliff-1.webp",
+      "/images/seatravel/wooden-handmade-boat-sea-sunlight-cloudy-sky.webp"
     ]
   },
   {
@@ -113,8 +113,8 @@ const trips = [
     price: 70,
     duration: "4 Hours",
     images: [
-      "/images/aswantravel/beautiful-shot-rocky-cliffs-sea-sunny-day.jpg",
-      "/images/aswantravel/view-ancient-temple-tomb-from-ancient-egyptian-times (1).jpg"
+      "/images/aswantravel/beautiful-shot-rocky-cliffs-sea-sunny-day.webp",
+      "/images/aswantravel/view-ancient-temple-tomb-from-ancient-egyptian-times-1.webp"
     ]
   }
 ];

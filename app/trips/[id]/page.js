@@ -7,6 +7,7 @@ import BookingModal from '@/components/BookingModal';
 import trips from '@/data/trips';
 import { Clock, Tag, Calendar, MapPin, ChevronRight, MessageCircle, ArrowLeft, ArrowRight, ShieldCheck } from 'lucide-react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { motion } from 'framer-motion';
 
 export default function TripDetails({ params }) {
@@ -149,7 +150,7 @@ export default function TripDetails({ params }) {
                 {/* Simplified card for recommendations */}
                 <Link href={`/trips/${trip.id}`} className="group block rounded-3xl overflow-hidden bg-white border border-slate-100 shadow-sm hover:shadow-md transition-all">
                    <div className="relative h-48">
-                      <img src={trip.images[0]} alt={trip.title[lang]} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                      <Image src={trip.images[0]} alt={trip.title[lang]} fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover group-hover:scale-105 transition-transform duration-500" />
                    </div>
                    <div className="p-6">
                       <h3 className="font-bold text-slate-800 mb-2">{trip.title[lang]}</h3>
